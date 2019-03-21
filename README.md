@@ -1,2 +1,6 @@
-Sample project on DHIS2
-The code in this repository is for mobile messaging and forms in dhis2
+#Sample project on DHIS2
+<hr>
+
+*Files in this:*
+*Mobile messaging code*.
+*Forms*
