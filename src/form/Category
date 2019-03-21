@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Viet Nguyen <viet@dhis2.org>
+
  */
 @JacksonXmlRootElement( localName = "category", namespace = DxfNamespaces.DXF_2_0 )
 public class Category
